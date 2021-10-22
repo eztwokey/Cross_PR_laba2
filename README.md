@@ -1,1 +1,1 @@
-# Cross_PR_laba2
+# Krod_pandas
